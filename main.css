@@ -79,7 +79,10 @@ body {
     background-color: #ffffff;
     color: #000000;
 }
+.service-tags{
+    margin-top: 33px;
 
+}
 .btn-secondary {
     background-color: #f0f0f0;
     color: #000;
@@ -115,6 +118,8 @@ body {
     display: flex;
     gap: 30px;
     justify-content: center;
+    padding-top: 33px;
+    margin-bottom: 43px;
 }
 
 .service-tags .btn {
@@ -295,8 +300,6 @@ body {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     color: #ffffff;
-    padding: 100px 0 50px;
-    margin-top: -65px;
     position: relative;
     z-index: 5;
 }
